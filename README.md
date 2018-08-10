@@ -61,7 +61,7 @@ When complete, create a private repository in Bitbucket and invite these users 
 
 We will evaluate your response based on the following criteria:
 
-* Architectural approach / programming paradigms used. We adhere to to see a functional / immutable style, while you don't have to follow this, you're welcome to show off these skills if you are familiar with them.
+* Architectural approach / programming paradigms used. We adhere to see a functional / immutable style, while you don't have to follow this, you're welcome to show off these skills if you are familiar with them.
 * Consistency in style, readability, naming conventions.
 * Code should be easy to read and understand, with little to no comments required.
 * Reduce code duplication; prefer use of abstracting functionality.
