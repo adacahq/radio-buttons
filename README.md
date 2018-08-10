@@ -4,7 +4,7 @@ Create an interactive and dynamic HTML form using radio buttons using JavaScript
 
 Add a submit button at the bottom that is only enabled when an option from all groups has been selected.
 
-_***You are welcome to solve the problem using vanilla ES5/6/7, TypeScript, React, Vue or Angular. Feel free to use your own tools or libraries that you would like to use._
+_***You are welcome to solve the problem using vanilla ES5/6/7, TypeScript, React, Vue or Angular. Feel free to use your own tools or libraries that you like._
 
 They should be dynamically rendered based on the following data structure:
 
@@ -55,9 +55,9 @@ When an item from the first group is selected, valid items from the second group
 ```
   
 ## Evaluation
-Feel free to ask your tester all the questions you need to ask if need be, or if you need any clarification on the requirement.
+Feel free to ask your tester all the questions you need to ask if need be, or if you need any clarification on the requirements.
 
-When complete, create a private repository in Bitbucket and invite these users for access to your repo `stn5-shass` `rpangilinan-s5` `alexkreuz`.
+When complete, create a private repository in Bitbucket and invite these users to access your repo `stn5-shass` `rpangilinan-s5` `alexkreuz`.
 
 We will evaluate your response based on the following criteria:
 
@@ -66,4 +66,4 @@ We will evaluate your response based on the following criteria:
 * Code should be easy to read and understand, with little to no comments required.
 * Reduce code duplication; prefer use of abstracting functionality.
 * Showing understanding of scope / binding / this (where required in your solution).
-* Problem solving and design approach
+* Problem solving and design approach.
