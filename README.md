@@ -1,12 +1,12 @@
 # Radio Buttons
 
-Create an interactive and dynamic HTML form using radio buttons using JavaScript*** that will render multiple groups of radio buttons. 
+Create an interactive and dynamic HTML form in JavaScript***. The form should render multiple groups of radio buttons. 
 
-Add a submit button at the bottom that is only enabled when an option from all groups has been selected.
+Add a submit button at the bottom that is only enabled when a valid option from all groups has been selected.
 
 _***You are welcome to solve the problem using vanilla ES5/6/7, TypeScript, React, Vue or Angular. Feel free to use your own tools or libraries that you like._
 
-They should be dynamically rendered based on the following data structure:
+The radio-button groups should be dynamically rendered based on the following data structure:
 
 ```javascript
 [
@@ -55,15 +55,15 @@ When an item from the first group is selected, valid items from the second group
 ```
   
 ## Evaluation
-Feel free to ask your tester all the questions you need to ask if need be, or if you need any clarification on the requirements.
+Feel free to ask your tester any questions you need to ask if need be, or if you need any clarification on the requirements.
 
-When complete, create a private repository in Bitbucket and invite these users to access your repo `lambrosphotios` `stn5-shass` `alexkreuz`.
+When complete, create a private repository in Bitbucket and invite these users to access your repo `lambrosphotios` and `stn5-shass`.
 
 We will evaluate your response based on the following criteria:
 
-* Architectural approach / programming paradigms used. We adhere to see a functional / immutable style, while you don't have to follow this, you're welcome to show off these skills if you are familiar with them.
-* Consistency in style, readability, naming conventions.
-* Code should be easy to read and understand, with little to no comments required.
-* Reduce code duplication; prefer use of abstracting functionality.
-* Showing understanding of scope / binding / this (where required in your solution).
 * Problem solving and design approach.
+* Architectural approach / programming paradigms used. We preference a functional/immutable style; while you don't have to follow this, you're encouraged to show off these skills if you are familiar with them.  Keeping consistency within whatever paradigm you use is, however, important.
+* Best practices within the chosen frame.
+* Consistency in style, readability, naming conventions.
+* Code should be easy to read and understand.  Self-explanitory variable/function/method names, with little to no comments required.
+* Reduce code duplication, minimise nested indentation (ie pyramids of doom); prefer use of abstracting functionality.
