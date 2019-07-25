@@ -88,7 +88,7 @@ class App extends Component {
         }
       }
     }
-    else if (groupNumber < 3) {
+    else if (groupNumber < 2) {
       let arrayNumber = groupNumber + 1;
       for (let i = 0; i < arrayList[arrayNumber].length; i++) {
         if (conditions[selectedValues["0"].selected].includes(parseInt(arrayList[arrayNumber][i].id))) {
