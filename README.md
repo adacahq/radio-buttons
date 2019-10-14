@@ -1,12 +1,15 @@
 # Radio Buttons
 
-Create an interactive and dynamic HTML form in JavaScript***. The form should render multiple groups of radio buttons. 
+Create an interactive and dynamic HTML form in JavaScript***.  The form should render multiple groups of radio buttons.
+
+_***You are welcome to solve the problem using vanilla ES5/6/7, TypeScript, React, Vue or Angular. Feel free to use your own tools or libraries that you like.  _
 
 Add a submit button at the bottom that is only enabled when a valid option from all groups has been selected.
 
-_***You are welcome to solve the problem using vanilla ES5/6/7, TypeScript, React, Vue or Angular. Feel free to use your own tools or libraries that you like._
+Please showcase your use of semantic HTML and modern CSS.
 
-The radio-button groups should be dynamically rendered based on the following data structure:
+---
+The radio-button groups should be dynamically rendered based on the following data structure, which you can imagine has come back from an API response:
 
 ```javascript
 [
@@ -53,7 +56,7 @@ When an item from the first group is selected, valid items from the second group
   205: [304],
 }
 ```
-  
+
 ## Evaluation
 Feel free to ask your tester any questions you need to ask if need be, or if you need any clarification on the requirements.
 
