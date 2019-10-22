@@ -60,7 +60,7 @@ When an item from the first group is selected, valid items from the second group
 ## Evaluation
 Feel free to ask your tester any questions you need to ask if need be, or if you need any clarification on the requirements.
 
-When complete, create a private repository in Bitbucket and invite these users to access your repo `lambrosphotios` and `stn5-shass`.
+When complete, create a private repository in Bitbucket and invite these users to access your repo `lambrosphotios`.
 
 We will evaluate your response based on the following criteria:
 
