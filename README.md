@@ -63,7 +63,7 @@ Items groups should remain disabled until an item in the previous group is selec
 ## Evaluation
 Feel free to ask your tester any questions you need to ask if need be, or if you need any clarification on the requirements.
 
-When complete, create a private repository in Bitbucket and invite these users to access your repo `lambrosphotios`.
+When complete, create a private repository in GitHub and invite these users to access your repo `lambrosphotios`.
 
 We will evaluate your response based on the following criteria:
 
